@@ -31,11 +31,9 @@ It allows users to **add**, **edit**, and **delete** tasks, and uses **Local Sto
 -  JavaScript 
 - Local Storage API
 
+ Internship Task Completion
+✅ Internship Provider: Rhombix Technologies
+✅ Task Name: To-Do-List
+✅ Task Completion Status: ✅ Completed
+🙌 Stay safe online and keep learning! 🚀
 
-
----
-
----
-  
-Would you like me to also write a **short version** if the client asks for a more compact README? 🚀  
-(Also, I can generate a nice sample screenshot section if you want!)
